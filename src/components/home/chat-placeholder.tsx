@@ -22,4 +22,5 @@ const ChatPlaceHolder = () => {
 		</div>
 	);
 };
+
 export default ChatPlaceHolder;
