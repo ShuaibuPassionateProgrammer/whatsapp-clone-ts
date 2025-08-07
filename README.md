@@ -24,7 +24,6 @@ A modern, full-featured **WhatsApp clone** built with **TypeScript**, focused on
 |-----------------------|--------------------|-----------|-----------------------------|
 | React + TypeScript    | Node.js + Express  | Socket.IO | Tailwind CSS / Styled Components |
 
-> ⚠️ *This project can be frontend-only or full-stack depending on your implementation.*
 
 ---
 
@@ -32,7 +31,7 @@ A modern, full-featured **WhatsApp clone** built with **TypeScript**, focused on
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/whatsapp-clone-typescript.git
+[git clone https://github.com/yourusername/whatsapp-clone-typescript](https://github.com/ShuaibuPassionateProgrammer).git
 
 # Navigate into the project
 cd whatsapp-clone-typescript
