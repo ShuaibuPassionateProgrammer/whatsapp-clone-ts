@@ -1,1 +1,1 @@
-## Whatsapp-clone-ts
+## Whatsapp Clone TypeScript
