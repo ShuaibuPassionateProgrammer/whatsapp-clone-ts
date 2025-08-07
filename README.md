@@ -31,7 +31,7 @@ A modern, full-featured **WhatsApp clone** built with **TypeScript**, focused on
 
 ```bash
 # Clone the repo
-[git clone https://github.com/ShuaibuPassionateProgrammer/whatsapp-clone-ts](https://github.com/ShuaibuPassionateProgrammer.git)
+[git clone https://github.com/ShuaibuPassionateProgrammer/whatsapp-clone-ts.git]
 
 # Navigate into the project
 cd whatsapp-clone-typescript
